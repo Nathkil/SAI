@@ -1,0 +1,21 @@
+[_nghost-ng-c1122157931] .card-header.panel-enabled[_ngcontent-ng-c1122157931] {
+    cursor: pointer;
+}
+[_nghost-ng-c1122157931] .card-header.panel-disabled[_ngcontent-ng-c1122157931] .btn.btn-link[_ngcontent-ng-c1122157931] {
+    cursor: default;
+    text-decoration: none;
+}
+.header_mobile {
+   display: none;
+}
+.owl-theme[_ngcontent-ng-c3098439908] {
+  display: block;
+}
+@media only screen and (max-width: 1024px) {
+   .header_mobile {
+      display: block!important;
+  }
+  .header_desktop {
+      display: none!important;
+  }
+}

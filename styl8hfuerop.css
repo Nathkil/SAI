@@ -1,0 +1,135 @@
+.claim-wrapper[_ngcontent-ng-c4245987962] {
+    padding: 50px 0;
+}
+@media screen and (max-width: 576px) {
+    .claim-wrapper[_ngcontent-ng-c4245987962] {
+        padding: 120px 0 70px;
+    }
+}
+.claim-wrapper[_ngcontent-ng-c4245987962] .title[_ngcontent-ng-c4245987962] {
+    background: var(--etuk, linear-gradient(to right, #00aeef 0%, #46dd0a 60%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 116.667%;
+    letter-spacing: -1.056px;
+}
+@media screen and (max-width: 576px) {
+    .claim-wrapper[_ngcontent-ng-c4245987962] .title[_ngcontent-ng-c4245987962] {
+        font-size: 30px;
+    }
+}
+.claim-wrapper[_ngcontent-ng-c4245987962] .form-group[_ngcontent-ng-c4245987962] .form-control[_ngcontent-ng-c4245987962] {
+    border-radius: 10px;
+    background: #212121 !important;
+    box-shadow: 12px 32px 80px -20px #0000001f;
+    color: #fff;
+}
+.claim-wrapper[_ngcontent-ng-c4245987962] .send-btn[_ngcontent-ng-c4245987962] {
+    border-radius: 999px;
+    background: linear-gradient(90deg, #079cd2 0.23%, #82c548 99.72%);
+    display: flex;
+    padding: 12px 24px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    font-size: 16px;
+    border: none;
+}
+.claim-wrapper[_ngcontent-ng-c4245987962] .form-check-input[type="checkbox"][_ngcontent-ng-c4245987962] {
+    width: 18px;
+    height: 18px;
+    border-radius: 0;
+    border: 1px solid #fff;
+    cursor: pointer;
+    margin-top: 8px;
+}
+.iti--allow-dropdown {
+    width: 100%;
+}
+.phone-field .form-control {
+    border-radius: 10px;
+    background: #212121 !important;
+    box-shadow: 12px 32px 80px -20px #0000001f;
+    color: #fff;
+}
+.faq[_ngcontent-ng-c2647275833] {
+    padding: 100px 0;
+    background: #212121;
+}
+.faq[_ngcontent-ng-c2647275833] .max-container[_ngcontent-ng-c2647275833] {
+    max-width: 1250px !important;
+}
+.faq[_ngcontent-ng-c2647275833] h2[_ngcontent-ng-c2647275833] {
+    max-width: 520px;
+    margin: 0 auto;
+}
+.faq[_ngcontent-ng-c2647275833] .panel {
+    max-width: 100%;
+    background: transparent;
+    border-bottom: 1px solid #000000;
+}
+.faq[_ngcontent-ng-c2647275833] .panel.panel-open .card-header {
+    color: #fff !important;
+}
+.faq[_ngcontent-ng-c2647275833] .panel .card {
+    border-bottom: 1px solid #000000;
+    border: none;
+    margin-bottom: 0;
+    padding: 25px 15px;
+}
+@media screen and (max-width: 576px) {
+    .faq[_ngcontent-ng-c2647275833] .panel .card {
+        padding: 20px 15px;
+    }
+}
+.faq[_ngcontent-ng-c2647275833] .panel .card .card-header {
+    background-color: transparent;
+    padding: 8px 0;
+    color: #fd7c1e;
+    border-bottom: 0;
+}
+.faq[_ngcontent-ng-c2647275833] .panel .card .card-header .icon {
+    position: absolute;
+    height: 25px;
+    width: 25px;
+    right: 0;
+    top: 10px;
+    background: url(023jodjp/03jpnjdp123mp/9378048.svg) no-repeat;
+    transition: 0.4s;
+}
+.faq[_ngcontent-ng-c2647275833] .panel .card .card-header img {
+    position: absolute;
+    right: 20px;
+    top: 22px;
+}
+.faq[_ngcontent-ng-c2647275833] .panel .card .card-body {
+    padding: 10px 0;
+}
+.faq[_ngcontent-ng-c2647275833] .panel .card .card-body span {
+    display: inline-block;
+}
+.faq[_ngcontent-ng-c2647275833] .panel-open {
+    transition: 0.5s;
+}
+.faq[_ngcontent-ng-c2647275833] .panel-open .icon {
+    background: url(023jodjp/03jpnjdp123mp/j94ogh.svg) no-repeat !important;
+}
+.faq[_ngcontent-ng-c2647275833] .panel-open ul li {
+    list-style-type: none;
+}
+.how-to-buy[_ngcontent-ng-c2237329881] {
+    padding: 100px 0;
+}
+@media screen and (max-width: 576px) {
+    .how-to-buy[_ngcontent-ng-c2237329881] {
+        padding: 78px 0;
+        margin-top: -30px;
+    }
+}
+.how-to-buy[_ngcontent-ng-c2237329881] .max-container[_ngcontent-ng-c2237329881] {
+    max-width: 1250px !important;
+}
